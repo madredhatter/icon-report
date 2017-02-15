@@ -1,2 +1,2 @@
 data/original_data.csv
-out/
+out/*.txt
